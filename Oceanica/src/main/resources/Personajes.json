@@ -1,0 +1,144 @@
+[
+    
+    {
+        "nombre": "Alisa",
+        "icon": "/imagenes/personajesIcons/Alya.gif",
+        "ataque": "Fish Telepathy",
+        "porcentaje": 30,
+        "poder": 75,
+        "resistencia": 75,
+        "sanidad": 75,
+        "nombreSecundario": "Alya"
+    },
+    {
+        "nombre": "Aquaman",
+        "icon": "/imagenes/personajesIcons/Aquaman.jpg",
+        "ataque": "Poseidon Trident",
+        "porcentaje": 20,
+        "poder": 75,
+        "resistencia": 75,
+        "sanidad": 75,
+        "nombreSecundario": "Aquaman"
+    },
+    {
+        "nombre": "Manta negra",
+        "icon": "/imagenes/personajesIcons/mantaNegra.jpeg",
+        "ataque": "Release the Kraken",
+        "porcentaje": 50,
+        "poder": 75,
+        "resistencia": 75,
+        "sanidad": 75,
+        "nombreSecundario": "MantaNegra"
+    },
+    {
+        "nombre":  "Gabito",
+        "icon": "/imagenes/personajesIcons/gabo.jpeg",
+        "ataque": "Thunders under the sea",
+        "porcentaje": 20,
+        "poder": 75,
+        "resistencia": 75,
+        "sanidad": 75,
+        "nombreSecundario": "Gabito"
+    },
+    {
+        "nombre":  "Alanna",
+        "icon": "/imagenes/personajesIcons/Alanna.jpg",
+        "ataque": "Waves control",
+        "porcentaje": 50,
+        "poder": 100,
+        "resistencia": 100,
+        "sanidad": 100,
+        "nombreSecundario": "Alannita"
+    },
+    {
+        "nombre":  "Juan",
+        "icon": "/imagenes/personajesIcons/Juan.jpeg",
+        "ataque": "Undersea Fire",
+        "porcentaje": 30,
+        "poder": 75,
+        "resistencia": 75,
+        "sanidad": 50,
+        "nombreSecundario": "Juancini"
+    },
+    {
+        "nombre":  "Inspector gadget",
+        "icon": "/imagenes/personajesIcons/Inspector.jpeg",
+        "ataque": "Poseidon Trident",
+        "porcentaje": 30,
+        "poder": 75,
+        "resistencia": 100,
+        "sanidad": 50,
+        "nombreSecundario": "TheBalatro"
+    },
+    {
+        "nombre":  "Xocas",
+        "icon": "/imagenes/personajesIcons/Xokas.gif",
+        "ataque": "Estoy codificando",
+        "porcentaje": 50,
+        "poder": 100,
+        "resistencia": 50,
+        "sanidad": 50,
+        "nombreSecundario": "Xokitas"
+    },
+    {
+        "nombre":  "Gato balatro",
+        "icon": "/imagenes/personajesIcons/GatoBalatro.jpeg",
+        "ataque": "Hora de balatrear",
+        "porcentaje": 20,
+        "poder": 50,
+        "resistencia": 75,
+        "sanidad": 100,
+        "nombreSecundario": "GatoBalatro"
+    },
+    {
+        "nombre":  "Cavendish",
+        "icon": "/imagenes/personajesIcons/Cavendish.jpeg",
+        "ataque": "Hora de balatrear",
+        "porcentaje": 30,
+        "poder": 75,
+        "resistencia": 75,
+        "sanidad": 75,
+        "nombreSecundario": "Cavendish"
+    },
+    {
+        "nombre":  "Mondongo",
+        "icon": "/imagenes/personajesIcons/mondongo.png",
+        "ataque": "Release the Kraken",
+        "porcentaje": 50,
+        "poder": 100,
+        "resistencia": 100,
+        "sanidad": 50,
+        "nombreSecundario": "Goku"
+    },
+    {
+        "nombre":  "Espejo",
+        "icon": "/imagenes/personajesIcons/Espejo.png",
+        "ataque": "Espejea",
+        "porcentaje": 30,
+        "poder": 75,
+        "resistencia": 50,
+        "sanidad": 50,
+        "nombreSecundario": "Espejito"
+    },
+    {
+        "nombre":  "Jimbo",
+        "icon": "/imagenes/personajesIcons/balatro.gif",
+        "ataque": "Hora de balatrear",
+        "porcentaje": 20,
+        "poder": 75,
+        "resistencia": 75,
+        "sanidad": 100,
+        "nombreSecundario": "TheBalatro"
+    },
+    {
+        "nombre":  "Makima",
+        "icon": "/imagenes/personajesIcons/makima.gif",
+        "ataque": "Control",
+        "porcentaje": 50,
+        "poder": 75,
+        "resistencia": 50,
+        "sanidad": 75,
+        "nombreSecundario": "TheBalatro"
+    }
+
+]

@@ -1,0 +1,74 @@
+{
+  "jugadores": [
+    {
+      "nombre": "asd",
+      "nivel": 1
+    },
+    {
+      "nombre": "chichi",
+      "nivel": 1
+    },
+    {
+      "nombre": "tete",
+      "nivel": 1
+    },
+    {
+      "nombre": "pepe",
+      "nivel": 1
+    },
+    {
+      "nombre": "awe",
+      "nivel": 1
+    },
+    {
+      "nombre": "we",
+      "nivel": 1
+    },
+    {
+      "nombre": "Alya",
+      "nivel": 1
+    },
+    {
+      "nombre": "A",
+      "nivel": 3
+    }
+  ],
+  "personajes": [
+    {
+      "nombre": "Bombardiro Crocodilo",
+      "vida": 100,
+      "dano": 25,
+      "velocidad": 2500,
+      "ruta": "/imagenes/bombardiro.png",
+      "tipo": "Defensa",
+      "rango": 7
+    },
+    {
+      "nombre": "Megumin",
+      "vida": 10,
+      "dano": 150,
+      "velocidad": 5000,
+      "ruta": "/imagenes/megumin.png",
+      "tipo": "Defensa",
+      "rango": 15
+    },
+    {
+      "nombre": "Zombie lento",
+      "vida": 50,
+      "dano": 10,
+      "velocidad": 1000,
+      "ruta": "/imagenes/alya.jpg",
+      "tipo": "Zombie",
+      "rango": 1
+    },
+    {
+      "nombre": "Zombie suicida",
+      "vida": 100,
+      "dano": 100,
+      "velocidad": 500,
+      "ruta": "/imagenes/AllMight.jpg",
+      "tipo": "Zombie",
+      "rango": 3
+    }
+  ]
+}
