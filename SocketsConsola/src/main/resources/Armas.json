@@ -1,0 +1,122 @@
+{
+  "Fuego": [
+    { "nombre": "Espada de la Ceniza", "tipo_arma": "Espada", "imagen": "/Imagenes/Armas/Fuego/Espada de la Ceniza.png", "nombreSecundario": "espadadelaceniza"},
+    { "nombre": "Lanzallamas Infernal", "tipo_arma": "Arma Pesada", "imagen": "/Imagenes/Armas/Fuego/Lanzallamas Infernal.png", "nombreSecundario": "lanzallamasinfernal"},
+    { "nombre": "Puño Calcinante", "tipo_arma": "Guantelete" , "imagen": "/Imagenes/Armas/Fuego/Puño Calcinante.png", "nombreSecundario": "puñocalcinante"},
+    { "nombre": "Arco Piroclástico", "tipo_arma": "Arco" , "imagen": "/Imagenes/Armas/Fuego/Arco Piroclástico.png", "nombreSecundario": "arcopiroclastico"},
+    { "nombre": "Daga de la Brasa", "tipo_arma": "Daga" , "imagen": "/Imagenes/Armas/Fuego/Daga de la Brasa.png", "nombreSecundario": "dagadelabrasa"},
+    { "nombre": "Maza del Sol Ardiente", "tipo_arma": "Maza" , "imagen": "/Imagenes/Armas/Fuego/Maza del Sol Ardiente.png", "nombreSecundario": "mazadelsolardiente"},
+    { "nombre": "Cadena de Magma", "tipo_arma": "Latigo" , "imagen": "/Imagenes/Armas/Fuego/Cadena de Magma.png", "nombreSecundario": "cadenademagma"},
+    { "nombre": "Hacha de Fuego Fatuo", "tipo_arma": "Hacha" , "imagen": "/Imagenes/Armas/Fuego/Hacha de Fuego Fatuo.png", "nombreSecundario": "hachadefuegofatuo"},
+    { "nombre": "Cetro de la Llama Eterna", "tipo_arma": "Báculo" , "imagen": "/Imagenes/Armas/Fuego/Cetro de la Llama Eterna.png", "nombreSecundario": "cetrodelallamaeterna"},
+    { "nombre": "Escopeta de Fusión", "tipo_arma": "Arma de Fuego" , "imagen": "/Imagenes/Armas/Fuego/Escopeta de Fusión.png", "nombreSecundario": "escopetadefusion"}
+  ],
+  "Aire": [
+    { "nombre": "Sable del Ciclón", "tipo_arma": "Espada", "imagen": "/Imagenes/Armas/Aire/Sable del Ciclón.png", "nombreSecundario": "sabledelciclon" },
+    { "nombre": "Abanico Huracán", "tipo_arma": "Abanico", "imagen": "/Imagenes/Armas/Aire/Abanico Huracán.png", "nombreSecundario": "abanicohuracan" },
+    { "nombre": "Jabalina del Vendaval", "tipo_arma": "Lanza", "imagen": "/Imagenes/Armas/Aire/Jabalina del Vendaval.png", "nombreSecundario": "jabalinasdelvendaval" },
+    { "nombre": "Flauta Silenciosa", "tipo_arma": "Instrumento", "imagen": "/Imagenes/Armas/Aire/Flauta Silenciosa.png", "nombreSecundario": "flautasilenciosa" },
+    { "nombre": "Shuriken Ventisca", "tipo_arma": "Arrojadiza", "imagen": "/Imagenes/Armas/Aire/Shuriken Ventisca.png", "nombreSecundario": "shurikenventisca" },
+    { "nombre": "Báculo del Cielo Despejado", "tipo_arma": "Báculo", "imagen": "/Imagenes/Armas/Aire/Báculo del Cielo Despejado.png", "nombreSecundario": "baculodelcielodespejado" },
+    { "nombre": "Cuchillas Flotantes", "tipo_arma": "Daga", "imagen": "/Imagenes/Armas/Aire/Cuchillas Flotantes.png", "nombreSecundario": "cuchillasflotantes" },
+    { "nombre": "Lanza de las Nubes", "tipo_arma": "Lanza", "imagen": "/Imagenes/Armas/Aire/Lanza de las Nubes.png", "nombreSecundario": "lanzadelasnubes" },
+    { "nombre": "Cañón de Sonido", "tipo_arma": "Arma Pesada", "imagen": "/Imagenes/Armas/Aire/Cañón de Sonido.png", "nombreSecundario": "cañondesonido" },
+    { "nombre": "Guadaña de la Corriente", "tipo_arma": "Hacha", "imagen": "/Imagenes/Armas/Aire/Guadaña de la Corriente.png", "nombreSecundario": "guadañadelacorriente" }
+  ],
+  "Agua": [
+    { "nombre": "Tridente del Leviatán", "tipo_arma": "Lanza", "imagen": "/Imagenes/Armas/Agua/Tridente del Leviatán.png", "nombreSecundario": "tridentedelleviatan" },
+    { "nombre": "Látigo de Coral", "tipo_arma": "Latigo", "imagen": "/Imagenes/Armas/Agua/Látigo de Coral.png", "nombreSecundario": "latigodecoral" },
+    { "nombre": "Orbe de Marea", "tipo_arma": "Foco", "imagen": "/Imagenes/Armas/Agua/Orbe de Marea.png", "nombreSecundario": "orbedemarea" },
+    { "nombre": "Espada Ondulante", "tipo_arma": "Espada", "imagen": "/Imagenes/Armas/Agua/Espada Ondulante.png", "nombreSecundario": "espadaondulante" },
+    { "nombre": "Cañón de Presión", "tipo_arma": "Arma Pesada", "imagen": "/Imagenes/Armas/Agua/Cañón de Presión.png", "nombreSecundario": "cañondepresión" },
+    { "nombre": "Daga Burbuja", "tipo_arma": "Daga", "imagen": "/Imagenes/Armas/Agua/Daga Burbuja.png", "nombreSecundario": "dagaburbuja" },
+    { "nombre": "Escudo de Algas", "tipo_arma": "Escudo", "imagen": "/Imagenes/Armas/Agua/Escudo de Algas.png", "nombreSecundario": "escudodealgas" },
+    { "nombre": "Red de las Profundidades", "tipo_arma": "Arrojadiza", "imagen": "/Imagenes/Armas/Agua/Red de las Profundidades.png", "nombreSecundario": "reddelasprofundidades" },
+    { "nombre": "Anillo de las Perlas", "tipo_arma": "Anillo", "imagen": "/Imagenes/Armas/Agua/Anillo de las Perlas.png", "nombreSecundario": "anillodelasperlas" },
+    { "nombre": "Martillo Hidráulico", "tipo_arma": "Martillo", "imagen": "/Imagenes/Armas/Agua/Martillo Hidráulico.png", "nombreSecundario": "martillohidraulico" }
+  ],
+  "Magia blanca": [
+    { "nombre": "Vara de la Piedad", "tipo_arma": "Báculo", "imagen": "/Imagenes/Armas/Magia blanca/Vara de la Piedad.png", "nombreSecundario": "varadelapiedad" },
+    { "nombre": "Cetro del Arcángel", "tipo_arma": "Báculo", "imagen": "/Imagenes/Armas/Magia blanca/Cetro del Arcángel.png", "nombreSecundario": "cetrodelarcangel" },
+    { "nombre": "Gemas de Curación", "tipo_arma": "Joyería", "imagen": "/Imagenes/Armas/Magia blanca/Gemas de Curación.png", "nombreSecundario": "gemasdecuracion" },
+    { "nombre": "Libro de los Salmos", "tipo_arma": "Tomo", "imagen": "/Imagenes/Armas/Magia blanca/Libro de los Salmos.png", "nombreSecundario": "librodelossalmos" },
+    { "nombre": "Arco Luminoso", "tipo_arma": "Arco", "imagen": "/Imagenes/Armas/Magia blanca/Arco Luminoso.png", "nombreSecundario": "arcoluminoso" },
+    { "nombre": "Daga del Sacrificio", "tipo_arma": "Daga", "imagen": "/Imagenes/Armas/Magia blanca/Daga del Sacrificio.png", "nombreSecundario": "dagadelsacrificio" },
+    { "nombre": "Cáliz de la Fe", "tipo_arma": "Reliquia", "imagen": "/Imagenes/Armas/Magia blanca/Cáliz de la Fe.png", "nombreSecundario": "calizdelafe" },
+    { "nombre": "Cadenas de Pureza", "tipo_arma": "Latigo", "imagen": "/Imagenes/Armas/Magia blanca/Cadenas de Pureza.png", "nombreSecundario": "cadenasdepureza" },
+    { "nombre": "Campana del Despertar", "tipo_arma": "Instrumento", "imagen": "/Imagenes/Armas/Magia blanca/Campana del Despertar.png", "nombreSecundario": "campanadeldespertar" },
+    { "nombre": "Guantelete de Protección", "tipo_arma": "Guantelete", "imagen": "/Imagenes/Armas/Magia blanca/Guantelete de Protección.png", "nombreSecundario": "guanteletedeproteccion" }
+  ],
+  "Magia negra": [
+    { "nombre": "Báculo del No-Muerto", "tipo_arma": "Báculo", "imagen": "/Imagenes/Armas/Magia negra/Báculo del No-Muerto.png", "nombreSecundario": "báculodelno-muerto" },
+    { "nombre": "Grimorio Prohibido", "tipo_arma": "Tomo", "imagen": "/Imagenes/Armas/Magia negra/Grimorio Prohibido.png", "nombreSecundario": "grimorioprohibido" },
+    { "nombre": "Daga de la Sangre", "tipo_arma": "Daga", "imagen": "/Imagenes/Armas/Magia negra/Daga de la Sangre.png", "nombreSecundario": "dagadelasangre" },
+    { "nombre": "Hoz del Segador", "tipo_arma": "Hacha", "imagen": "/Imagenes/Armas/Magia negra/Hoz del Segador.png", "nombreSecundario": "hozdelasegador" },
+    { "nombre": "Cristal de Vacío", "tipo_arma": "Foco", "imagen": "/Imagenes/Armas/Magia negra/Cristal de Vacío.png", "nombreSecundario": "cristaldevacio" },
+    { "nombre": "Garra de Demonio", "tipo_arma": "Guantelete", "imagen": "/Imagenes/Armas/Magia negra/Garra de Demonio.png", "nombreSecundario": "garradedemonio" },
+    { "nombre": "Esfera de la Plaga", "tipo_arma": "Orbe", "imagen": "/Imagenes/Armas/Magia negra/Esfera de la Plaga.png", "nombreSecundario": "esferadelaplaga" },
+    { "nombre": "Espada de Óbito", "tipo_arma": "Espada", "imagen": "/Imagenes/Armas/Magia negra/Espada de Óbito.png", "nombreSecundario": "espadadeobito" },
+    { "nombre": "Flauta de Huesos", "tipo_arma": "Instrumento", "imagen": "/Imagenes/Armas/Magia negra/Flauta de Huesos.png", "nombreSecundario": "flutadehuesos" },
+    { "nombre": "Anillo de Drenaje", "tipo_arma": "Anillo", "imagen": "/Imagenes/Armas/Magia negra/Anillo de Drenaje.png", "nombreSecundario": "anillodedrenaje" }
+  ],
+  "Electricidad": [
+    { "nombre": "Lanza del Rayo", "tipo_arma": "Lanza", "imagen": "/Imagenes/Armas/Electricidad/Lanza del Rayo.png", "nombreSecundario": "lanzadelrayo" },
+    { "nombre": "Guantes de Choque", "tipo_arma": "Guantelete", "imagen": "/Imagenes/Armas/Electricidad/Guantes de Choque.png", "nombreSecundario": "guantesdechoque" },
+    { "nombre": "Cadena de Voltaje", "tipo_arma": "Latigo", "imagen": "/Imagenes/Armas/Electricidad/Cadena de Voltaje.png", "nombreSecundario": "cadenadevoltaje" },
+    { "nombre": "Pistola de Plasma", "tipo_arma": "Arma de Fuego", "imagen": "/Imagenes/Armas/Electricidad/Pistola de Plasma.png", "nombreSecundario": "pistoladeplasma" },
+    { "nombre": "Katana de Electrones", "tipo_arma": "Espada", "imagen": "/Imagenes/Armas/Electricidad/Katana de Electrones.png", "nombreSecundario": "katanadeelectrones" },
+    { "nombre": "Báculo del Trueno", "tipo_arma": "Báculo", "imagen": "/Imagenes/Armas/Electricidad/Báculo del Trueno.png", "nombreSecundario": "baculodeltrueno" },
+    { "nombre": "Disco Electrificado", "tipo_arma": "Arrojadiza", "imagen": "/Imagenes/Armas/Electricidad/Disco Electrificado.png", "nombreSecundario": "discoelectrificado" },
+    { "nombre": "Cuchilla de Bobina", "tipo_arma": "Hacha", "imagen": "/Imagenes/Armas/Electricidad/Cuchilla de Bobina.png", "nombreSecundario": "cuchilladebobina" },
+    { "nombre": "Caminantes del Rayo", "tipo_arma": "Calzado", "imagen": "/Imagenes/Armas/Electricidad/Caminantes del Rayo.png", "nombreSecundario": "caminantesdelrayo" },
+    { "nombre": "Generador Estático", "tipo_arma": "Foco", "imagen": "/Imagenes/Armas/Electricidad/Generador Estático.png", "nombreSecundario": "generadorstático" }
+  ],
+  "Hielo": [
+    { "nombre": "Espada de Escarcha", "tipo_arma": "Espada", "imagen": "/Imagenes/Armas/Hielo/Espada de Escarcha.png", "nombreSecundario": "espadadeescarcha" },
+    { "nombre": "Pica de Cristal", "tipo_arma": "Lanza", "imagen": "/Imagenes/Armas/Hielo/Pica de Cristal.png", "nombreSecundario": "picadecristal" },
+    { "nombre": "Arco del Glaciar", "tipo_arma": "Arco", "imagen": "/Imagenes/Armas/Hielo/Arco del Glaciar.png", "nombreSecundario": "arcodelglaciar" },
+    { "nombre": "Maza de Carámbano", "tipo_arma": "Maza", "imagen": "/Imagenes/Armas/Hielo/Maza de Carámbano.png", "nombreSecundario": "mazadecarambano" },
+    { "nombre": "Chakram Congelante", "tipo_arma": "Arrojadiza", "imagen": "/Imagenes/Armas/Hielo/Chakram Congelante.png", "nombreSecundario": "chakramcongelante" },
+    { "nombre": "Báculo del Invierno", "tipo_arma": "Báculo", "imagen": "/Imagenes/Armas/Hielo/Báculo del Invierno.png", "nombreSecundario": "baculodelinverno" },
+    { "nombre": "Dardos de Nieve", "tipo_arma": "Arrojadiza", "imagen": "/Imagenes/Armas/Hielo/Dardos de Nieve.png", "nombreSecundario": "dardosdenieve" },
+    { "nombre": "Cuchillos de Hielo", "tipo_arma": "Daga", "imagen": "/Imagenes/Armas/Hielo/Cuchillos de Hielo.png", "nombreSecundario": "cuchillosdehielo" },
+    { "nombre": "Escudo de Nieve Dura", "tipo_arma": "Escudo", "imagen": "/Imagenes/Armas/Hielo/Escudo de Nieve Dura.png", "nombreSecundario": "escudodenievedura" },
+    { "nombre": "Ballesta Ártica", "tipo_arma": "Arco", "imagen": "/Imagenes/Armas/Hielo/Ballesta Ártica.png", "nombreSecundario": "ballestaartica" }
+  ],
+  "Acid": [
+    { "nombre": "Látigo de Ácido", "tipo_arma": "Latigo", "imagen": "/Imagenes/Armas/Acid/Látigo de Ácido.png", "nombreSecundario": "latigodeacido" },
+    { "nombre": "Pistola Pulverizadora", "tipo_arma": "Arma de Fuego", "imagen": "/Imagenes/Armas/Acid/Pistola Pulverizadora.png", "nombreSecundario": "pistolapulverizadora" },
+    { "nombre": "Daga de Vesícula", "tipo_arma": "Daga", "imagen": "/Imagenes/Armas/Acid/Daga de Vesícula.png", "nombreSecundario": "dagadevesicula" },
+    { "nombre": "Báculo de Vitriolo", "tipo_arma": "Báculo", "imagen": "/Imagenes/Armas/Acid/Báculo de Vitriolo.png", "nombreSecundario": "baculodevitriolo" },
+    { "nombre": "Jeringa Tóxica", "tipo_arma": "Arrojadiza", "imagen": "/Imagenes/Armas/Acid/Jeringa Tóxica.png", "nombreSecundario": "jeringatoxica" },
+    { "nombre": "Granada Cáustica", "tipo_arma": "Arrojadiza", "imagen": "/Imagenes/Armas/Acid/Granada Cáustica.png", "nombreSecundario": "granadacaustica" },
+    { "nombre": "Cuchilla Envenenada", "tipo_arma": "Espada", "imagen": "/Imagenes/Armas/Acid/Cuchilla Envenenada.png", "nombreSecundario": "cuchillaenvenenada" },
+    { "nombre": "Escudo de Baba", "tipo_arma": "Escudo", "imagen": "/Imagenes/Armas/Acid/Escudo de Baba.png", "nombreSecundario": "escudodebaba" },
+    { "nombre": "Frasco Concentrado", "tipo_arma": "Vial", "imagen": "/Imagenes/Armas/Acid/Frasco Concentrado.png", "nombreSecundario": "frascoconcentrado" },
+    { "nombre": "Espada de Residuos", "tipo_arma": "Espada", "imagen": "/Imagenes/Armas/Acid/Espada de Residuos.png", "nombreSecundario": "espadaderesiduos" }
+  ],
+  "Espiritualidad": [
+    { "nombre": "Rosario del Juicio", "tipo_arma": "Joyería", "imagen": "/Imagenes/Armas/Espiritualidad/Rosario del Juicio.png", "nombreSecundario": "rosariodeljuicio" },
+    { "nombre": "Pergamino Etéreo", "tipo_arma": "Tomo", "imagen": "/Imagenes/Armas/Espiritualidad/Pergamino Etéreo.png", "nombreSecundario": "pergaminoetereo" },
+    { "nombre": "Incensario del Alma", "tipo_arma": "Reliquia", "imagen": "/Imagenes/Armas/Espiritualidad/Incensario del Alma.png", "nombreSecundario": "incensariodelalma" },
+    { "nombre": "Campana del Destino", "tipo_arma": "Instrumento", "imagen": "/Imagenes/Armas/Espiritualidad/Campana del Destino.png", "nombreSecundario": "campanadeldestino" },
+    { "nombre": "Vara del Vidente", "tipo_arma": "Báculo", "imagen": "/Imagenes/Armas/Espiritualidad/Vara del Vidente.png", "nombreSecundario": "varadelvidente" },
+    { "nombre": "Diadema Mental", "tipo_arma": "Joyería", "imagen": "/Imagenes/Armas/Espiritualidad/Diadema Mental.png", "nombreSecundario": "diademamental" },
+    { "nombre": "Espejo Astral", "tipo_arma": "Foco", "imagen": "/Imagenes/Armas/Espiritualidad/Espejo Astral.png", "nombreSecundario": "espejoastral" },
+    { "nombre": "Gong Resonante", "tipo_arma": "Arma Pesada", "imagen": "/Imagenes/Armas/Espiritualidad/Gong Resonante.png", "nombreSecundario": "gongresonante" },
+    { "nombre": "Talismán de Defensa", "tipo_arma": "Joyería", "imagen": "/Imagenes/Armas/Espiritualidad/Talismán de Defensa.png", "nombreSecundario": "talismandedefensa" },
+    { "nombre": "Guantelete del Trascendente", "tipo_arma": "Guantelete", "imagen": "/Imagenes/Armas/Espiritualidad/Guantelete del Trascendente.png", "nombreSecundario": "guanteletedeltrascendente" }
+  ],
+  "Hierro": [
+    { "nombre": "Claymore de Acero Pesado", "tipo_arma": "Espada", "imagen": "/Imagenes/Armas/Hierro/Claymore de Acero Pesado.png", "nombreSecundario": "claymoredeaceropesado" },
+    { "nombre": "Escudo de Torreón", "tipo_arma": "Escudo", "imagen": "/Imagenes/Armas/Hierro/Escudo de Torreón.png", "nombreSecundario": "escudodetorreon" },
+    { "nombre": "Martillo de Herrero", "tipo_arma": "Martillo", "imagen": "/Imagenes/Armas/Hierro/Martillo de Herrero.png", "nombreSecundario": "martillodeherrero" },
+    { "nombre": "Cuchillo de Combate", "tipo_arma": "Daga", "imagen": "/Imagenes/Armas/Hierro/Cuchillo de Combate.png", "nombreSecundario": "cuchillodecombate" },
+    { "nombre": "Alabarda de Plata", "tipo_arma": "Lanza", "imagen": "/Imagenes/Armas/Hierro/Alabarda de Plata.png", "nombreSecundario": "alabardadeplata" },
+    { "nombre": "Mangual con Púas", "tipo_arma": "Maza", "imagen": "/Imagenes/Armas/Hierro/Mangual con Púas.png", "nombreSecundario": "mangualconpuas" },
+    { "nombre": "Pistola de Balas", "tipo_arma": "Arma de Fuego", "imagen": "/Imagenes/Armas/Hierro/Pistola de Balas.png", "nombreSecundario": "pistoladebalas" },
+    { "nombre": "Hacha de Leñador Reforzada", "tipo_arma": "Hacha", "imagen": "/Imagenes/Armas/Hierro/Hacha de Leñador Reforzada.png", "nombreSecundario": "hachadeleñadorreforzada" },
+    { "nombre": "Arco de Acero Tensado", "tipo_arma": "Arco", "imagen": "/Imagenes/Armas/Hierro/Arco de Acero Tensado.png", "nombreSecundario": "arcodeacerotensado" },
+    { "nombre": "Botas con Placas", "tipo_arma": "Calzado", "imagen": "/Imagenes/Armas/Hierro/Botas con Placas.png", "nombreSecundario": "botasconplacas" }
+  ]
+}

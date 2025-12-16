@@ -1,0 +1,47 @@
+[
+    {
+    "nombre": "Gabriel",
+    "tipo": "Agua",
+    "imagen": "/Imagenes/Personajes/gabo.jpeg"
+    },
+    {
+    "nombre": "Aqua",
+    "tipo": "Agua",
+    "imagen": "/Imagenes/Personajes/aqua.jpg"
+    },
+    {
+    "nombre": "Frozono",
+    "tipo": "Hielo",
+    "imagen": "/Imagenes/Personajes/Frozono.png"
+    },
+    {
+    "nombre": "Pikachu",
+    "tipo": "Electricidad",
+    "imagen": "/Imagenes/Personajes/pikachu.png"
+    },
+    {
+    "nombre": "Gengar",
+    "tipo": "Magia negra",
+    "imagen": "/Imagenes/Personajes/gengar.png"
+    },
+    {
+    "nombre": "Juan",
+    "tipo": "Magia negra",
+    "imagen": "/Imagenes/Personajes/Juan.jpeg"
+    },
+    {
+    "nombre": "Gigante de hierro",
+    "tipo": "Hierro",
+    "imagen": "/Imagenes/Personajes/gigante.png"
+    },
+    {
+    "nombre": "Aang",
+    "tipo": "Aire",
+    "imagen": "/Imagenes/Personajes/aang.png"
+    },
+    {
+    "nombre": "Acido",
+    "tipo": "Acid",
+    "imagen": "/Imagenes/Personajes/acido.png"
+    }
+]
